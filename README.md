@@ -3,4 +3,4 @@
 
 Author: Jacob Brown
 
-Description: TK
+Description: From the data file, produces an image of a scalar field over a 2D space (isolines).
